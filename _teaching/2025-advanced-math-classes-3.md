@@ -10,6 +10,8 @@ location: "Remote"
 
 This is the 3rd of my “Advanced Math Classes” series. I am helping Madrik prepare for the wonderful world of Math Olympiads. He is from Guwahati, Assam.
 
+![WhatsApp Image 2025-06-02 at 21 02 10_984c2cb6](https://github.com/user-attachments/assets/f9eb9ebc-8ac2-45e4-b9bb-281a4cb74b21)
+
 The ones in square brackets are for reading (recommended)
 
 -   Lec 1.1   Introduction to the Principle of Mathematical Induction - 1 \[[notes](https://drive.google.com/file/d/1furyOTZp3Sk9a0VypDzVsmeVenUgZDRe/view?usp=sharing), [PMI-NCERT (introductory)](https://drive.google.com/file/d/1SmiTV3nrtO-Bou7brVgjC8GxiYVmGu2V/view?usp=sharing)\]
@@ -21,3 +23,9 @@ The ones in square brackets are for reading (recommended)
 -   Lec 1.4   Introduction to the Principle of Mathematical Induction - 2 \[[notes](https://drive.google.com/file/d/1Rb67P2wMEylipjutqGccgHWTPm-rVI85/view?usp=sharing), [Divisibility Results using Induction](https://drive.google.com/file/d/1Zjrnm59VH8MoJn43yOy322J1XPLU0HjE/view?usp=sharing)\]
     
 -   Lec 1.5   Introduction to the Principle of Mathematical Induction - 3 \[[notes](https://drive.google.com/file/d/1iwzEAXDnnpQWU-ZVwNpNNvuO1i5_IwXM/view?usp=sharing)\]
+
+-   Lec 1.6  Introduction to the Principle of Mathematical Induction - 4 \[[notes](https://drive.google.com/file/d/1b5J23Iq55nFRgxwOnSb_EDgl4MOWuEuu/view?usp=sharing)\]
+
+-   Lec 1.7   Introduction to the Principle of Mathematical Induction - 5 \[[notes](https://drive.google.com/file/d/19gCKocw7Y474j6q98Rm2UJyTpamP7dsD/view?usp=sharing), [Induction and Inequalities](https://k12.libretexts.org/Bookshelves/Mathematics/Analysis/07%3A_Sequences_Series_and_Mathematical_Induction/7.03%3A_Mathematical_Induction/7.3.03%3A_Induction_and_Inequalities?readerView)\]
+
+-   Lec 1.8   Introduction to Polynomials - 1 \[[notes](https://drive.google.com/file/d/1PZtXeySSbgaWsVCCa9wrzhylFKmwNCK-/view?usp=sharing), [Further Reading](https://drive.google.com/file/d/1PZtXeySSbgaWsVCCa9wrzhylFKmwNCK-/view?usp=sharing)\]
