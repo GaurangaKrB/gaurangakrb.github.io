@@ -10,7 +10,8 @@ location: "Remote"
 
 This is the 2nd of my “Advanced Math Classes” series, focused on paving the way to Calculus. I had the priviledge of teaching Advik Mout who was only 10 years.
 
-![advik](https://github.com/GaurangaKrB/gaurangakrb.github.io/blob/master/images/gallery/advik.jpg)
+![WhatsApp Image 2025-03-28 at 04 31 21_a559a918](https://github.com/user-attachments/assets/58f139a2-f7f3-4924-b0b4-306f948e790b)
+
 
 - [Lec 1.1 _ Set Theory - 1](https://drive.google.com/file/d/17BnvaATZN-Y2TVD569zznF7eBkRCL--m/view?usp=sharing)
 - [Lec 1.2 _ Set Theory - 2](https://drive.google.com/file/d/1lYoZIfWrW-orjYPbO2vSMLzGsdVsasFJ/view?usp=sharing)
