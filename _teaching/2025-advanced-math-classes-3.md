@@ -10,7 +10,7 @@ location: "Remote"
 
 This is the 3rd of my “Advanced Math Classes” series. I am helping Madrik prepare for the wonderful world of Math Olympiads. He is from Guwahati, Assam.
 
-![WhatsApp Image 2025-06-02 at 21 02 10_984c2cb6](https://github.com/user-attachments/assets/f9eb9ebc-8ac2-45e4-b9bb-281a4cb74b21)
+![madrik](https://github.com/GaurangaKrB/gaurangakrb.github.io/blob/master/images/gallery/madrik.jpg)
 
 The ones in square brackets are for reading (recommended)
 
