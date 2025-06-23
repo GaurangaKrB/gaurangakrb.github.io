@@ -29,4 +29,4 @@ The ones in square brackets are for reading (recommended)
 
 -   Lec 1.7   Introduction to the Principle of Mathematical Induction - 5 \[[notes](https://drive.google.com/file/d/19gCKocw7Y474j6q98Rm2UJyTpamP7dsD/view?usp=sharing), [Induction and Inequalities](https://k12.libretexts.org/Bookshelves/Mathematics/Analysis/07%3A_Sequences_Series_and_Mathematical_Induction/7.03%3A_Mathematical_Induction/7.3.03%3A_Induction_and_Inequalities?readerView)\]
 
--   Lec 1.8   Introduction to Polynomials - 1 \[[notes](https://drive.google.com/file/d/1PZtXeySSbgaWsVCCa9wrzhylFKmwNCK-/view?usp=sharing), [Further Reading](https://drive.google.com/file/d/1PZtXeySSbgaWsVCCa9wrzhylFKmwNCK-/view?usp=sharing)\]
+-   Lec 1.8   Introduction to Polynomials - 1 \[[notes](https://drive.google.com/file/d/1PZtXeySSbgaWsVCCa9wrzhylFKmwNCK-/view?usp=sharing), [Further Reading](https://www.mathcentre.ac.uk/resources/uploaded/mc-ty-factorisingquadratics-2009-1.pdf)\]
