@@ -153,6 +153,7 @@ analytics:
   provider: "google-gtag"     # GA4
   google:
     tracking_id: "G-7Q4DRBK2XW"
+    anonymize_ip: true
 
 
 # Reading Files
