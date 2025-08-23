@@ -106,47 +106,46 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 ## Latest News
 
 <ul class="news-list">
-  
   <li class="news-item">
     <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
-      Started working in two projects @ led by Amitava Das. One in the revolutionary idea of neural genomics (<a href="https://pragyaai.github.io/ndna/"
-      target="_blank" rel="noopener">) and one in spatial reasoning in 3d.
+      <p>Started working on two projects led by Amitava Das: neural genomics (<a href="https://pragyaai.github.io/ndna/" target="_blank" rel="noopener">project page</a>) and spatial reasoning in 3D.</p>
     </div>
   </li>
-  
+
   <li class="news-item">
     <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
-      Participate in this amazing, fully-funded event, Data Science: Probabilistic And Optimization Methods II (<a href="https://www.icts.res.in/program/DSPOM"          target="_blank" rel="noopener">) held @ International Centre for Theoretical Sciences (ICTS).
+      <p>Participated in <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at the International Centre for Theoretical Sciences  (ICTS).</p>
     </div>
   </li>
 
   <li class="news-item">
     <time datetime="2025-07-07">Jul 07, 2025</time>
     <div class="news-content">
-      Graduated from CMI with M.Sc. in Data Science today! Check out my LinkedIn post here: 
+      <p>Graduated from CMI with an M.Sc. in Data Science.</p>
     </div>
   </li>
 
   <li class="news-item">
     <time datetime="2025-07-07">Jul 07, 2025</time>
     <div class="news-content">
-      Participated in the LAVA 2025 - 8-day Summer School on AI and ML for Computer Vision and Language Modelling (<a href="https://mmlabiitg.github.io/lava2025/"       target="_blank" rel="noopener">) 
+      <p>Participated in <a href="https://mmlabiitg.github.io/lava2025/" target="_blank" rel="noopener">LAVA 2025</a> — an 8-day Summer School on AI & ML for Computer Vision and Language Modelling.</p>
     </div>
   </li>
-  
+
   <li class="news-item">
     <time datetime="2025-06-08">Jun 08, 2025</time>
     <div class="news-content">
-      Will be joining IISc-TCS Innovation labs!
+      <p>Will be joining IISc–TCS Innovation Labs!</p>
     </div>
   </li>
 
   <li class="news-item">
-    <time datetime="2025-04-05">April 05, 2025</time>
+    <time datetime="2025-04-05">Apr 05, 2025</time>
     <div class="news-content">
-      Appereared for the last exam of my Masters Degree @ CMI.
+      <p>Appeared for the last exam of my Master’s degree at CMI.</p>
     </div>
   </li>
 </ul>
+
