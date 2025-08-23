@@ -111,28 +111,28 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
     <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
       Started working in two projects @ led by Amitava Das. One in the revolutionary idea of neural genomics (<a href="https://pragyaai.github.io/ndna/"
-      target="_blank" rel="noopener"></a>) and one in spatial reasoning in 3d.
+      target="_blank" rel="noopener">) and one in spatial reasoning in 3d.
     </div>
   </li>
   
   <li class="news-item">
     <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
-      Participate in this amazing, fully-funded event, Data Science: Probabilistic And Optimization Methods II (<a href="https://www.icts.res.in/program/DSPOM"          target="_blank" rel="noopener"></a>) held @ International Centre for Theoretical Sciences (ICTS).
+      Participate in this amazing, fully-funded event, Data Science: Probabilistic And Optimization Methods II (<a href="https://www.icts.res.in/program/DSPOM"          target="_blank" rel="noopener">) held @ International Centre for Theoretical Sciences (ICTS).
     </div>
   </li>
 
   <li class="news-item">
     <time datetime="2025-07-07">Jul 07, 2025</time>
     <div class="news-content">
-      Graduated from CMI with M.Sc. in Data Science today!
+      Graduated from CMI with M.Sc. in Data Science today! Check out my LinkedIn post here: 
     </div>
   </li>
 
   <li class="news-item">
-    <time datetime="2025-07-07">Jul 7, 2025</time>
+    <time datetime="2025-07-07">Jul 07, 2025</time>
     <div class="news-content">
-      Participated in the LAVA 2025 - 8-day Summer School on AI and ML for Computer Vision and Language Modelling (<a href="https://mmlabiitg.github.io/lava2025/"       target="_blank" rel="noopener"></a>) 
+      Participated in the LAVA 2025 - 8-day Summer School on AI and ML for Computer Vision and Language Modelling (<a href="https://mmlabiitg.github.io/lava2025/"       target="_blank" rel="noopener">) 
     </div>
   </li>
   
