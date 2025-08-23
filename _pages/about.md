@@ -244,7 +244,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 
   <li class="timeline-item">
     <div class="timeline-content">
-      <time datetime="2025-07-07" class="timeline-date">July 07, 2025</time>
+      <time datetime="2025-07-22" class="timeline-date">July 22, 2025</time>
       <p>Graduated from CMI with an M.Sc. in Data Science.</p>
     </div>
   </li>
