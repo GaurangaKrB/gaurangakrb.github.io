@@ -106,28 +106,47 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 ## Latest News
 
 <ul class="news-list">
+  
   <li class="news-item">
-    <time datetime="2025-06-08">June 08, 2025</time>
+    <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
-      Will be joining TCS Research.
+      Started working in two projects @ led by Amitava Das. One in the revolutionary idea of neural genomics (<a href="https://pragyaai.github.io/ndna/"
+      target="_blank" rel="noopener"></a>) and one in spatial reasoning in 3d.
     </div>
   </li>
+  
   <li class="news-item">
-    <time datetime="2025-05-07">May 07, 2025</time>
+    <time datetime="2025-08-15">Aug 15, 2025</time>
     <div class="news-content">
-      Started working in two independent projects. One with 
-      <a href="https://scholar.google.co.in/citations?user=Ip1c2OcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        Dr. Raghav Kulkarni
-      </a> in computational psychology &amp; one with 
-      <a href="https://surajitray.org/" target="_blank" rel="noopener">
-        Prof. Surajit Ray
-      </a> in Causal inference in medical imaging.
+      Participate in this amazing, fully-funded event, Data Science: Probabilistic And Optimization Methods II (<a href="https://www.icts.res.in/program/DSPOM"          target="_blank" rel="noopener"></a>) held @ International Centre for Theoretical Sciences (ICTS).
     </div>
   </li>
+
   <li class="news-item">
-    <time datetime="2025-05-03">April 05, 2025</time>
+    <time datetime="2025-07-07">Jul 07, 2025</time>
     <div class="news-content">
-      Appereared for the last exam of my Masters Degree.
+      Graduated from CMI with M.Sc. in Data Science today!
+    </div>
+  </li>
+
+  <li class="news-item">
+    <time datetime="2025-07-07">Jul 7, 2025</time>
+    <div class="news-content">
+      Participated in the LAVA 2025 - 8-day Summer School on AI and ML for Computer Vision and Language Modelling (<a href="https://mmlabiitg.github.io/lava2025/"       target="_blank" rel="noopener"></a>) 
+    </div>
+  </li>
+  
+  <li class="news-item">
+    <time datetime="2025-06-08">Jun 08, 2025</time>
+    <div class="news-content">
+      Will be joining IISc-TCS Innovation labs!
+    </div>
+  </li>
+
+  <li class="news-item">
+    <time datetime="2025-04-05">April 05, 2025</time>
+    <div class="news-content">
+      Appereared for the last exam of my Masters Degree @ CMI.
     </div>
   </li>
 </ul>
