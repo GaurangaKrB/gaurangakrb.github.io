@@ -117,7 +117,7 @@ permalink: /portfolio/gallery/
   <div class="gallery-grid">
     <figure>
       <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
-      <figcaption>@ A math festival</figcaption>
+      <figcaption>@ AAM-Ganitmela, Assam</figcaption>
     </figure>
   </div>
 
