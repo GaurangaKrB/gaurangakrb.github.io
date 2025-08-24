@@ -86,7 +86,6 @@ permalink: /portfolio/gallery/
       <img src="{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}" alt="Event 4">
       <figcaption>@ LAVA, IIT-G</figcaption>
     </figure>
-
     <!-- … -->
   </div>
 
