@@ -118,10 +118,6 @@ permalink: /portfolio/gallery/
     <figure>
       <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
       <figcaption>@ A math festival</figcaption>
-    </figure> 
-    <figure>
-      <img src="{{ '/images/gallery/DSC_0062.jpeg' | relative_url }}" alt="Event 3">
-      <figcaption>@ A math festival</figcaption>
     </figure>
   </div>
 
