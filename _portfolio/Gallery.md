@@ -64,6 +64,32 @@ permalink: /portfolio/gallery/
 
 <div class="gallery-timeline">
 
+  <h2>June - August 2025</h2>
+  <div class="gallery-grid">
+    <figure>
+      <img src="{{ '/images/gallery/icts1_hd.jpg' | relative_url }}" alt="Event 4">
+      <figcaption>@ ICTS with Prof. Ashoke Sen</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/icts2_hd.jpg' | relative_url }}" alt="Event 4">
+      <figcaption>@ DSPOM-II, ICTS @ICTS</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/icts3_hd.jpg' | relative_url }}" alt="Event 4">
+      <figcaption>@ ICTS</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/icts4_hd.jpg' | relative_url }}" alt="Event 4">
+      <figcaption>Nobel Laureate, David Gross @ ICTS</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}" alt="Event 4">
+      <figcaption>@ LAVA, IIT-G</figcaption>
+    </figure>
+
+    <!-- … -->
+  </div>
+
   <h2>May - July 2024</h2>
   <div class="gallery-grid">
     <figure>
