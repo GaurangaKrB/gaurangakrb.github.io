@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /portfolio/gallery/
 ---
 
-{% include base_path %}
+{% raw %}{% include base_path %}{% endraw %}
 
 <style>
   /* outer spacing */
@@ -43,7 +43,8 @@ permalink: /portfolio/gallery/
   .gallery-grid img {
     display: block;
     width: 100%;
-    height: auto;
+    aspect-ratio: 1 / 1; /* <-- This makes the image container square */
+    object-fit: cover;   /* <-- This makes the image fill the container without stretching */
   }
   .gallery-grid figcaption {
     padding: 0.5rem;
@@ -67,62 +68,59 @@ permalink: /portfolio/gallery/
   <h2>June - August 2025</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/icts1_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/icts1_hd.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ ICTS with Prof. Ashoke Sen</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts2_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/icts2_hd.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ DSPOM-II, ICTS @ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts3_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/icts3_hd.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts4_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/icts4_hd.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>Nobel Laureate, David Gross @ ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ LAVA, IIT-G</figcaption>
     </figure>
-    <!-- … -->
-  </div>
+    </div>
 
   <h2>May - July 2024</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/profile.png' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/new york.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/new york.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ New York (93rd floor)</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/harvard.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/harvard.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ Harvard Medical School</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 4">
+      <img src="{% raw %}{{ '/images/gallery/mit_.jpg' | relative_url }}{% endraw %}" alt="Event 4">
       <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
+      <img src="{% raw %}{{ '/images/gallery/advik.jpg' | relative_url }}{% endraw %}" alt="Event 1">
       <figcaption>with prodigy, Advik @ Brookline, MA</figcaption>
     </figure>
-    <!-- … -->
-  </div>
+    </div>
 
-  <!-- May 2025 -->
   <h2>Oct 2023</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
+      <img src="{% raw %}{{ '/images/gallery/inno.jpg' | relative_url }}{% endraw %}" alt="Event 3">
       <figcaption>@ A math festival</figcaption>
     </figure> 
     <figure>
-      <img src="{{ '/images/gallery/DSC_0062.jpeg' | relative_url }}" alt="Event 3">
+      <img src="{% raw %}{{ '/images/gallery/DSC_0062.jpeg' | relative_url }}{% endraw %}" alt="Event 3">
       <figcaption>@ A math festival</figcaption>
     </figure>
   </div>
