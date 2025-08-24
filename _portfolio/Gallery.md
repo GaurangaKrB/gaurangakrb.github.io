@@ -68,23 +68,27 @@ permalink: /portfolio/gallery/
   <h2>June - August 2025</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/icts1_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/icts1_hd.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ ICTS with Prof. Ashoke Sen</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts2_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/icts2_hd.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ DSPOM-II, ICTS @ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts3_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/icts3_hd.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/icts4_hd.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/icts404_hd.jpg' | relative_url }}" alt="Event 404">
       <figcaption>Nobel Laureate, David Gross @ ICTS</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/LAVA2025_1.jpg' | relative_url }}" alt="Event 404">
+      <figcaption>@ LAVA, IIT-G</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/LAVA2025_2.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ LAVA, IIT-G</figcaption>
     </figure>
     </div>
@@ -92,23 +96,23 @@ permalink: /portfolio/gallery/
   <h2>May - July 2024</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 404">
       <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/new york.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/new york.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ New York (93rd floor)</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/harvard.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/harvard.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ Harvard Medical School</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 4">
+      <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
-      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
+      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 404">
       <figcaption>with prodigy, Advik @ Brookline, MA</figcaption>
     </figure>
     </div>
@@ -116,7 +120,7 @@ permalink: /portfolio/gallery/
   <h2>Oct 2023</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
+      <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 404">
       <figcaption>@ AAM-Ganitmela, Assam</figcaption>
     </figure>
   </div>
