@@ -73,7 +73,7 @@ permalink: /portfolio/gallery/
     </figure>
     <figure>
       <img src="{{ '/images/gallery/icts2_hd.jpg' | relative_url }}" alt="Event 404">
-      <figcaption>@ DSPOM-II, ICTS @ICTS</figcaption>
+      <figcaption>@ DSPOM-II, ICTS</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/icts3_hd.jpg' | relative_url }}" alt="Event 404">
