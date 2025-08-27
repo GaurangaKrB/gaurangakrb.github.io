@@ -8,37 +8,44 @@ redirect_from:
 ---
 
 <blockquote class="hero-quote">
-  “The greater danger for most of us lies not in setting our aim too high  
-  and falling short; but in setting our aim too low, and achieving our mark.”
-  <footer>― Michelangelo Buonarroti</footer>
+  “The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.”
+  <footer>&mdash; Michelangelo Buonarroti</footer>
 </blockquote>
 
 <style>
   .hero-quote {
-    max-width: 600px;
-    margin: 3rem auto;
-    padding-left: 1rem;
-    font-size: 1.8rem;
-    line-height: 1.4;
+    max-width: 650px;
+    margin: 3rem auto 4rem;
+    padding-left: 1.5rem;
+    font-size: 1.6rem;
+    line-height: 1.5;
     font-style: italic;
-    color: currentColor;
-    border-left: 4px solid #007acc;
+    color: #555;
+    border-left: 3px solid #007acc;
   }
 
   .hero-quote footer {
     margin-top: 1rem;
     font-size: 1rem;
     font-style: normal;
-    font-weight: 500;
-    color: currentColor;
-    opacity: 0.75;
+    font-weight: 400;
+    color: #777;
     text-align: left;
+  }
+
+  [data-theme="dark"] .hero-quote {
+    color: #bbb;
+    border-left-color: #3498db;
+  }
+
+  [data-theme="dark"] .hero-quote footer {
+    color: #999;
   }
 
   @media (max-width: 600px) {
     .hero-quote {
-      font-size: 1.4rem;
-      margin: 2rem auto;
+      font-size: 1.3rem;
+      margin: 2rem auto 3rem;
     }
     .hero-quote footer {
       font-size: 0.9rem;
@@ -46,38 +53,37 @@ redirect_from:
   }
 </style>
 
+I am an AI/ML researcher with a focus on **Causal AI**, **Reinforcement Learning**, and **Generative AI**. My work also involves applying machine learning to interdisciplinary challenges in Computational Biology, Public Health, and Computational Linguistics.
 
-I am a researcher in AI and ML. My primary research areas include Causal AI, RL, and Gen AI. Additionally, I apply ML methodologies to interdisciplinary problems across Computational Biology, Public Health, and Computational Linguistics (e.g., Psychology).
+My academic path led me from a graduate program in Mathematics at IIT Kharagpur to a Master of Science in Data Science from the Chennai Mathematical Institute (CMI), which I completed in 2025. During my studies, I was selected as a 2024 **[Khorana Scholar](https://iusstf.org/khorana-program-for-scholars)**, an opportunity that allowed me to conduct summer research at Harvard Medical School under the mentorship of **[Prof. Yu-Hua Tseng](https://yhtsenglab.org/)**.
 
-I transitioned from the graduate program in Mathematics at IIT Kharagpur to complete my Master’s degree in Data Science at the Chennai Mathematical Institute (CMI), graduating in 2025. In 2024, I was honored to receive the [Khorana Scholarship](https://iusstf.org/khorana-program-for-scholars) to spend my summer at Harvard Medical School under the mentorship of [Prof. Yu-Hua Tseng](https://yhtsenglab.org/).
+Beyond research, I am passionate about cinema, chess, competitive programming, and travel. I also enjoy writing, and you can find a collection of my thoughts and articles in the [blogs](https://gaurangakrb.github.io/year-archive/) section.
 
-Outside my professional pursuits, I cherish diverse intellectual and recreational activities: cinematic arts (especially dramatic narratives), Chess, puzzle-solving, competitive programming, travel, photography, sketching, and writing philosophical and biographical articles. You can explore more of my thoughts and experiences in the [blogs](https://gaurangakrb.github.io/year-archive/) section.
-
-I am always eager to connect, exchange ideas, and collaborate. Please feel free to reach out through any of my social media platforms.
+I am always open to connecting with fellow researchers and enthusiasts to exchange ideas or explore potential collaborations. Please feel free to reach out.
 
 <style>
   :root {
-    --timeline-bg: #f9f9f9;
-    --timeline-line-color: #ddd;
-    --timeline-dot-color: #007acc;
-    --timeline-card-bg: #ffffff;
-    --timeline-card-shadow: rgba(0, 0, 0, 0.08);
-    --timeline-text-color: #333;
-    --timeline-date-color: #777;
-    --timeline-link-color: #007acc;
+    --accent-color: #007acc;
+    --text-color-primary: #333;
+    --text-color-secondary: #6c757d;
+    --card-bg: #ffffff;
+    --card-shadow: rgba(0, 0, 0, 0.06);
+    --card-shadow-hover: rgba(0, 0, 0, 0.12);
+    --border-color: #e9ecef;
+    --timeline-line-color: #dee2e6;
   }
 
-  /* Adjust colors for dark mode if your site has one */
   [data-theme="dark"] {
-    --timeline-bg: #1e1e1e;
-    --timeline-line-color: #444;
-    --timeline-card-bg: #2d2d2d;
-    --timeline-card-shadow: rgba(0, 0, 0, 0.2);
-    --timeline-text-color: #ccc;
-    --timeline-date-color: #999;
+    --accent-color: #3498db;
+    --text-color-primary: #e0e0e0;
+    --text-color-secondary: #a0a0a0;
+    --card-bg: #2c2c2c;
+    --card-shadow: rgba(0, 0, 0, 0.2);
+    --card-shadow-hover: rgba(0, 0, 0, 0.3);
+    --border-color: #444;
+    --timeline-line-color: #555;
   }
 
-  /* The main timeline container */
   .timeline {
     position: relative;
     max-width: 900px;
@@ -86,29 +92,26 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
     list-style: none;
   }
 
-  /* The central timeline bar */
   .timeline::before {
     content: '';
     position: absolute;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 3px;
+    width: 2px;
     height: 100%;
     background-color: var(--timeline-line-color);
-    border-radius: 3px;
   }
   
-  /* Each item in the timeline */
   .timeline-item {
-    padding: 1rem 3rem;
+    padding: 1rem 2.5rem;
     position: relative;
     width: 50%;
-    opacity: 0; /* Initially hidden for animation */
+    opacity: 0;
     animation: slideInUp 0.6s ease-out forwards;
   }
   
-  /* Stagger the animation for each item */
+  /* Stagger animation */
   .timeline-item:nth-child(1) { animation-delay: 0.1s; }
   .timeline-item:nth-child(2) { animation-delay: 0.2s; }
   .timeline-item:nth-child(3) { animation-delay: 0.3s; }
@@ -117,74 +120,66 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   .timeline-item:nth-child(6) { animation-delay: 0.6s; }
   .timeline-item:nth-child(7) { animation-delay: 0.7s; }
 
-  /* Position items on alternating sides */
-  .timeline-item:nth-child(odd) {
-    left: 0;
-  }
+  .timeline-item:nth-child(odd) { left: 0; }
+  .timeline-item:nth-child(even) { left: 50%; }
 
-  .timeline-item:nth-child(even) {
-    left: 50%;
-  }
-
-  /* The dot on the timeline */
   .timeline-item::after {
     content: '';
     position: absolute;
-    width: 16px;
-    height: 16px;
-    top: 1.5rem;
-    background-color: var(--timeline-dot-color);
-    border: 3px solid var(--timeline-bg);
+    width: 14px;
+    height: 14px;
+    top: 1.8rem;
+    background-color: var(--card-bg);
+    border: 3px solid var(--accent-color);
     border-radius: 50%;
     z-index: 1;
+    transition: transform 0.3s ease;
   }
 
-  .timeline-item:nth-child(odd)::after {
-    right: -8px; /* half of width */
-  }
-
-  .timeline-item:nth-child(even)::after {
-    left: -8px; /* half of width */
+  .timeline-item:nth-child(odd)::after { right: -7px; }
+  .timeline-item:nth-child(even)::after { left: -7px; }
+  
+  .timeline-item:hover::after {
+    transform: scale(1.1);
   }
   
-  /* The content card */
   .timeline-content {
     padding: 1.5rem;
-    background: var(--timeline-card-bg);
+    background: var(--card-bg);
     border-radius: 8px;
-    box-shadow: 0 4px 12px var(--timeline-card-shadow);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 12px var(--card-shadow);
     position: relative;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
-  /* Interactive hover effect */
   .timeline-content:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 20px var(--timeline-card-shadow);
+    box-shadow: 0 8px 20px var(--card-shadow-hover);
   }
 
   .timeline-date {
     display: block;
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: var(--timeline-date-color);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-color-secondary);
     margin-bottom: 0.75rem;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
   }
 
   .timeline-content p {
     margin: 0;
-    font-size: 1rem;
+    font-size: 0.95rem;
     line-height: 1.6;
-    color: var(--timeline-text-color);
+    color: var(--text-color-primary);
   }
   
   .timeline-content a {
     font-weight: 600;
-    color: var(--timeline-link-color);
+    color: var(--accent-color);
     text-decoration: none;
-    background-image: linear-gradient(var(--timeline-link-color), var(--timeline-link-color));
+    background-image: linear-gradient(var(--accent-color), var(--accent-color));
     background-position: 0% 100%;
     background-repeat: no-repeat;
     background-size: 0% 2px;
@@ -195,34 +190,15 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
     background-size: 100% 2px;
   }
 
-  /* Keyframe animation for items appearing */
   @keyframes slideInUp {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
   }
 
-  /* Responsive adjustments for mobile */
   @media screen and (max-width: 768px) {
-    .timeline::before {
-      left: 15px; /* Move line to the left */
-    }
-
-    .timeline-item {
-      width: 100%;
-      padding-left: 45px; /* Space for line and dot */
-      padding-right: 15px;
-      left: 0 !important; /* Override the 'left: 50%' for even items */
-    }
-
-    .timeline-item::after {
-      left: 7px; /* Position dot on the line */
-    }
+    .timeline::before { left: 12px; }
+    .timeline-item { width: 100%; padding-left: 35px; padding-right: 15px; left: 0 !important; }
+    .timeline-item::after { left: 5px; }
   }
 </style>
 
@@ -232,50 +208,44 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   
   <li class="timeline-item">
     <div class="timeline-content">
-      <time datetime="2025-08-25" class="timeline-date">August 25, 2025</time>
-      <p> Will be doing an 8 hour invited guest workshop in ML, DL & RL @ GLA university organised by IEEE Student Council on August 30 and 31st.</p>
+      <time datetime="2025-08-30" class="timeline-date">August 30-31, 2025</time>
+      <p>Invited to lead an 8-hour guest workshop on ML, Deep Learning & RL at GLA University, organized by the IEEE Student Council.</p>
     </div>
   </li>
   
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-15" class="timeline-date">August 15, 2025</time>
-      <p>Started working on two projects led by Prof. Amitava Das: neural genomics (<a href="https://pragyaai.github.io/ndna/" target="_blank" rel="noopener">project page</a>) and spatial reasoning in 3D.</p>
+      <p>Began work on two new research projects under Prof. Amitava Das: Neural Genomics (<a href="https://pragyaai.github.io/ndna/" target="_blank" rel="noopener">project page</a>) and Spatial Reasoning in 3D.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
-      <time datetime="2025-08-15" class="timeline-date">August 15, 2025</time>
-      <p>Participated in <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at the International Centre for Theoretical Sciences (ICTS) organised & sponsored by Google Deepmind, Microsoft Research and Safexpress Centre for Data, Learning and Decision Sciences at Ashoka University.</p>
+      <time datetime="2025-08-01" class="timeline-date">August 2025</time>
+      <p>Attended <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at ICTS, a program sponsored by Google DeepMind and Microsoft Research.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-07-22" class="timeline-date">July 22, 2025</time>
-      <p>Graduated from CMI with an M.Sc. in Data Science.</p>
+      <p>Successfully graduated from the Chennai Mathematical Institute with an M.Sc. in Data Science.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-07-07" class="timeline-date">July 07, 2025</time>
-      <p>Participated in <a href="https://mmlabiitg.github.io/lava2025/" target="_blank" rel="noopener">LAVA 2025</a> — an 8-day Summer School on AI & ML for Computer Vision and Language Modelling.</p>
+      <p>Participated in <a href="https://mmlabiitg.github.io/lava2025/" target="_blank" rel="noopener">LAVA 2025</a>, an 8-day Summer School on AI for Computer Vision and Language Modelling.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-06-08" class="timeline-date">June 08, 2025</time>
-      <p>Will be joining IISc–TCS Innovation Labs! </p>
+      <p>Excited to announce I will be joining the IISc–TCS Innovation Labs!</p>
     </div>
   </li>
 
-  <li class="timeline-item">
-    <div class="timeline-content">
-      <time datetime="2025-04-05" class="timeline-date">April 05, 2025</time>
-      <p>Appeared for the last exam (of my Master’s degree) @ CMI.</p>
-    </div>
-  </li>
 </ul>
