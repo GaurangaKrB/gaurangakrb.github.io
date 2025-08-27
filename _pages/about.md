@@ -115,6 +115,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   .timeline-item:nth-child(4) { animation-delay: 0.4s; }
   .timeline-item:nth-child(5) { animation-delay: 0.5s; }
   .timeline-item:nth-child(6) { animation-delay: 0.6s; }
+  .timeline-item:nth-child(7) { animation-delay: 0.7s; }
 
   /* Position items on alternating sides */
   .timeline-item:nth-child(odd) {
@@ -228,6 +229,14 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 ## Latest News
 
 <ul class="timeline">
+  
+  <li class="timeline-item">
+    <div class="timeline-content">
+      <time datetime="2025-08-25" class="timeline-date">August 25, 2025</time>
+      <p> Will be doing a 8 hour invited guest workshop in ML, DL & RL @ GLA university organised by IEEE Student Council on August 30 and 31st.</p>
+    </div>
+  </li>
+  
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-15" class="timeline-date">August 15, 2025</time>
