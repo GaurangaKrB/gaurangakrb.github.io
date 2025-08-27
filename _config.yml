@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Gauranga Kumar Baishya"
   pronouns         : "he/him"  
-  bio              : "Into AI-ML and Mathematics"
+  bio              : "Into Mathematics, Statistics and AI-ML"
   location         : "India"
   employer         : "Chennai Mathematical Institute"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=tGiHTuIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-6608-7989"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -75,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  topmate          : "https://topmate.io/gauranga"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
