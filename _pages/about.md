@@ -240,14 +240,14 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-15" class="timeline-date">August 15, 2025</time>
-      <p>Started working on two projects led by Amitava Das: neural genomics (<a href="https://pragyaai.github.io/ndna/" target="_blank" rel="noopener">project page</a>) and spatial reasoning in 3D.</p>
+      <p>Started working on two projects led by Prof. Amitava Das: neural genomics (<a href="https://pragyaai.github.io/ndna/" target="_blank" rel="noopener">project page</a>) and spatial reasoning in 3D.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-15" class="timeline-date">August 15, 2025</time>
-      <p>Participated in <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at the International Centre for Theoretical Sciences (ICTS).</p>
+      <p>Participated in <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at the International Centre for Theoretical Sciences (ICTS) organised & sponsored by Google Deepmind, Microsoft Research and Safexpress Centre for Data, Learning and Decision Sciences at Ashoka University.</p>
     </div>
   </li>
 
@@ -268,7 +268,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-06-08" class="timeline-date">June 08, 2025</time>
-      <p>Will be joining IISc–TCS Innovation Labs!</p>
+      <p>Will be joining IISc–TCS Innovation Labs! </p>
     </div>
   </li>
 
