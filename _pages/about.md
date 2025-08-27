@@ -233,7 +233,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-25" class="timeline-date">August 25, 2025</time>
-      <p> Will be doing a 8 hour invited guest workshop in ML, DL & RL @ GLA university organised by IEEE Student Council on August 30 and 31st.</p>
+      <p> Will be doing an 8 hour invited guest workshop in ML, DL & RL @ GLA university organised by IEEE Student Council on August 30 and 31st.</p>
     </div>
   </li>
   
@@ -275,7 +275,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-04-05" class="timeline-date">April 05, 2025</time>
-      <p>Appeared for the last exam of my Master’s degree at CMI.</p>
+      <p>Appeared for the last exam (of my Master’s degree) @ CMI.</p>
     </div>
   </li>
 </ul>
