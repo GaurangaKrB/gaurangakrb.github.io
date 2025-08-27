@@ -59,7 +59,7 @@ My academic path led me from a graduate program in Mathematics at IIT Kharagpur 
 
 Beyond research, I am passionate about cinema, chess, competitive programming, and travel. I also enjoy writing, and you can find a collection of my thoughts and articles in the [blogs](https://gaurangakrb.github.io/year-archive/) section.
 
-I am always open to connecting with fellow researchers and enthusiasts to exchange ideas or explore potential collaborations. Please feel free to reach out.
+Always open to connecting with fellow researchers and enthusiasts to exchange ideas or explore potential collaborations. Please feel free to reach out.
 
 <style>
   :root {
@@ -223,21 +223,21 @@ I am always open to connecting with fellow researchers and enthusiasts to exchan
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-08-01" class="timeline-date">August 2025</time>
-      <p>Attended <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at ICTS, a program sponsored by Google DeepMind and Microsoft Research.</p>
+      <p>Attended <a href="https://www.icts.res.in/program/DSPOM" target="_blank" rel="noopener">Data Science: Probabilistic and Optimization Methods II</a> at ICTS, a program sponsored by Google DeepMind, Microsoft Research and Ashoka University.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-07-22" class="timeline-date">July 22, 2025</time>
-      <p>Successfully graduated from the Chennai Mathematical Institute with an M.Sc. in Data Science.</p>
+      <p>Successfully graduated from the Chennai Mathematical Institute (CMI) with an M.Sc. in Data Science.</p>
     </div>
   </li>
 
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-07-07" class="timeline-date">July 07, 2025</time>
-      <p>Participated in <a href="https://mmlabiitg.github.io/lava2025/" target="_blank" rel="noopener">LAVA 2025</a>, an 8-day Summer School on AI for Computer Vision and Language Modelling.</p>
+      <p>Participated in <a href="https://mmlabiitg.github.io/lava2025/" target="_blank" rel="noopener">LAVA 2025</a>, an 8-day Summer School on AI for Computer Vision and Language Modelling @ IIT Guwahati..</p>
     </div>
   </li>
 
