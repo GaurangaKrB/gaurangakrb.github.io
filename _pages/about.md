@@ -230,7 +230,7 @@ Always open to connecting with fellow researchers and enthusiasts to exchange id
   <li class="timeline-item">
     <div class="timeline-content">
       <time datetime="2025-07-22" class="timeline-date">July 22, 2025</time>
-      <p>Successfully graduated from the Chennai Mathematical Institute (CMI) with an M.Sc. in Data Science.</p>
+      <p>Graduated with 1st Class Distinction in M.Sc. Data Science from Chennai Mathematical Institute (CMI).</p>
     </div>
   </li>
 
