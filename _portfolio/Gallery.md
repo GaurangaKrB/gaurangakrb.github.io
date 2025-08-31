@@ -80,6 +80,10 @@ permalink: /portfolio/gallery/
       <figcaption>@ ICTS</figcaption>
     </figure>
     <figure>
+      <img src="{{ '/images/gallery/with David Gross.jpg' | relative_url }}" alt="Event 404">
+      <figcaption>Nobel Laureate, David Gross @ ICTS</figcaption>
+    </figure>
+    <figure>
       <img src="{{ '/images/gallery/icts4_hd.jpg' | relative_url }}" alt="Event 404">
       <figcaption>Nobel Laureate, David Gross @ ICTS</figcaption>
     </figure>
