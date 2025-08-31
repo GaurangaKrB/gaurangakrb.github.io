@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=tGiHTuIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-6608-7989"
+  orcid            : # "https://orcid.org/0009-0003-6608-7989"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "gaurangakrb.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # "gaurangakrb.bsky.social" # Replace this with you Bluesky username
   facebook         : "gauranga.baishya.5"
   flickr           : # Username
   foursquare       : # Username
