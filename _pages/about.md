@@ -119,6 +119,7 @@ Always open to connecting with fellow researchers and enthusiasts to exchange id
   .timeline-item:nth-child(5) { animation-delay: 0.5s; }
   .timeline-item:nth-child(6) { animation-delay: 0.6s; }
   .timeline-item:nth-child(7) { animation-delay: 0.7s; }
+  .timeline-item:nth-child(8) { animation-delay: 0.8s; }
 
   .timeline-item:nth-child(odd) { left: 0; }
   .timeline-item:nth-child(even) { left: 50%; }
@@ -205,6 +206,13 @@ Always open to connecting with fellow researchers and enthusiasts to exchange id
 ## Latest News
 
 <ul class="timeline">
+
+  <li class="timeline-item">
+    <div class="timeline-content">
+      <time datetime="2025-09-11" class="timeline-date">September 11, 2025</time>
+      <p>Participated in the symposium on Artificial Intelligence and Pharmaceutical Medicine-2025 co hosted by Pfizer and IBSE, IITM.</p>
+    </div>
+  </li>
   
   <li class="timeline-item">
     <div class="timeline-content">
