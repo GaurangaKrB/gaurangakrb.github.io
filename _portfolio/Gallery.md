@@ -65,6 +65,18 @@ permalink: /portfolio/gallery/
 
 <div class="gallery-timeline">
 
+  <h2>September - October, 2025</h2>
+  <div class="gallery-grid">
+    <figure>
+      <img src="{{ '/images/gallery/AIPM-1.JPG' | relative_url }}" alt="Event 404">
+      <figcaption>With Prof. Elizabeth Stuart! (Johns Hopkins University) and Dr. Kannan Natarajan (Senior VP and Head, Global Data Sciences and Analytics, Pfizer, USA)</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/Workshop_ss.jpg' | relative_url }}" alt="Event 404">
+      <figcaption>Conducted an 8 hour workshop in foundations of ML @ GLA, Mathura </figcaption>
+    </figure>
+    </div>
+
   <h2>June - August 2025</h2>
   <div class="gallery-grid">
     <figure>
