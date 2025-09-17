@@ -209,7 +209,7 @@ Always open to connecting with fellow researchers and enthusiasts to exchange id
 
   <li class="timeline-item">
     <div class="timeline-content">
-      <time datetime="2025-09-11" class="timeline-date">September 11, 2025</time>
+      <time datetime="2025-09-11" class="timeline-date">September 10-11, 2025</time>
       <p>Participated in the symposium on Artificial Intelligence and Pharmaceutical Medicine-2025 co hosted by Pfizer and IBSE, IITM.</p>
     </div>
   </li>
