@@ -63,3 +63,19 @@ collection: portfolio
     <footer>— Jeff Brown</footer>
   </blockquote>
 </div>
+
+
+<!--————————————————————————————————————————————
+  Quote #5 – Emil Cioran
+————————————————————————————————————————————-->
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img
+    src="{{ '/images/emil.jpg' | relative_url }}"
+    alt="Emil Cioran"
+    style="width: 120px; height: auto; margin-right: 1rem; border-radius: 4px;"
+  />
+  <blockquote style="margin: 0;">
+    “Everything is possible, and yet nothing is. All is permitted, and yet again, nothing. No matter which way we go, it is no better than any other. It is all the same whether you achieve something or not, have faith or not, just as it is all the same whether you cry or remain silent. There is an explanation for everything, and yet there is none. Everything is both real and unreal, normal and absurd, splendid and insipid. There is nothing worth more than anything else, nor any idea better than any other. Why grow sad from one’s sadness and delight in one’s joy? What does it matter whether our tears come from pleasure or pain? Love your unhappiness and hate your happiness, mix everything up, scramble it all! Be a snowflake dancing in the air, a flower floating downstream! Have courage when you don’t need to, and be a coward when you must be brave! Who knows? You may still be a winner! And if you lose, does it really matter? Is there anything to win in this world? All gain is a loss, and all loss is a gain. Why always expect a definite stance, clear ideas, meaningful words? I feel as if I should spout fire in response to all the questions which were ever put, or not put, to me.”
+    <footer>— Emil Cioran</footer>
+  </blockquote>
+</div>
